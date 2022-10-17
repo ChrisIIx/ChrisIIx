@@ -8,9 +8,9 @@
 ## Welcome to my Profile !
 
 - 👋 Hi, I’m @ChrisIIx
-- 🏫 I'm working as Cloud Engineer
+- 🏫 I'm working as an Cloud Engineer
 - 👀 I’m interested in Cloud & network automation
 - 🌱 I’m currently learning DevOps in Public Cloud
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on: anything
 - 📫 How to reach me: [via my Twitter](https://twitter.com/Christogo_)
 
